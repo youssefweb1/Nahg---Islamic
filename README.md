@@ -1,6 +1,6 @@
 # Qurank Kareem 
 
-<img align="center" width="80%" src="https://github.com/Mohamed20a/My-Portfolio/blob/main/assets/img/portfolio/quran7.png">
+<img align="center" width="80%" src="https://github.com/youssefweb1/Nahg---Islamic/blob/main/nahg2.png">
 
 ## What is Nahg EL-islam?
 The ongoing charity initiative for dead Muslims, me and my parents.
