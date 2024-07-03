@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "robmorgan/phinx": "^0.12.7"
+    }
+}
